@@ -2,7 +2,6 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using TheNextFlow.UnityPlugins;
 using System.Collections.Generic;
 
 public class GUIEvents : MonoBehaviour

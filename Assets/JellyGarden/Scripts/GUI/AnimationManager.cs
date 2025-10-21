@@ -4,7 +4,6 @@ using UnityEngine.UI;
 using System;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
-using TheNextFlow.UnityPlugins;
 
 #if UNITY_ADS
 using UnityEngine.Advertisements;
